@@ -1,9 +1,3 @@
 {
-    "allowed_hwids": [
-        {
-            "username": "NXR",
-            "hwid": "1e3295b82605f1a0249f8cae5be58ee83da83433ae9c9efa732f12485a649b92",
-            "expiryDate": "2030-02-02"
-        }
-    ]
+    "allowed_hwids": []
 }
