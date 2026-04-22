@@ -4,6 +4,11 @@
             "username": "NXR",
             "hwid": "edbc1d9802f086767c957c7e0f9f4f5e6118ded9226dee44f26e7c589a8b8ce9",
             "expiryDate": "2030-02-22"
+        },
+        {
+            "username": "testuser1",
+            "hwid": "edbc1d9802f086767c957c7e0f9f4f5e6118ded9226dee44f26e7c589a8b8ce9",
+            "expiryDate": "2030-02-02"
         }
     ]
 }
